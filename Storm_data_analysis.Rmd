@@ -1,8 +1,5 @@
----
-output: pdf_document
----
-Tornadoes and floods : the most harmful and expensive disasters in the US
-Author : Joanne Breitfelder
+# Tornadoes and floods : the most harmful and expensive disasters in the US
+# Author : Joanne Breitfelder
 
 ## Synopsis
 
